@@ -35,7 +35,7 @@ function App() {
 
   return (
     <>
-      <div className="container w-auto bg-cyan-500 h-40 rounded-xl">
+      <div className="container w-auto bg-cyan-500 h-56 rounded-xl">
         <h1>Password Generator</h1>
         <div className='flex container-1 p-10 justify-items-center space-x-2' >
           <div>
