@@ -3,8 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": " https://Vinayak070301.github.io/Password_Generator/"
-",
+  "homepage": " https://Vinayak070301.github.io/Password_Generator/",
   "scripts": {
     "deploy": "gh-pages -d build",
     "dev": "vite",
