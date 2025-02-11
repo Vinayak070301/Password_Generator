@@ -3,7 +3,8 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://password-generator.github.io/6-routes",
+  "homepage": " https://Vinayak070301.github.io/Password_Generator/"
+",
   "scripts": {
     "deploy": "gh-pages -d build",
     "dev": "vite",
